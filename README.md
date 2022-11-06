@@ -1180,5 +1180,4 @@ Model summary: 157 layers, 7018216 parameters, 0 gradients, 15.8 GFLOPs
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
 [HuggingFace](https://huggingface.co/spaces/camilacorreamelo/supermarket)
