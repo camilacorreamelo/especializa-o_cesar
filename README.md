@@ -1176,7 +1176,7 @@ Model summary: 157 layers, 7018216 parameters, 0 gradients, 15.8 GFLOPs
 
 ## Roboflow
 
-[/especializacao/supermarket](https://universe.roboflow.com/especializao/supermarket-oqn4b)]
+[/especializacao/supermarket](https://universe.roboflow.com/especializao/supermarket-oqn4b)
 
 ## HuggingFace
 
