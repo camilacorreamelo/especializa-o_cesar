@@ -5,6 +5,10 @@
 |**DETECCAO**|**YOLOv5**|**PyTorch**|
 
 
+## Purpose
+
+This project aims to create a model to detect different surgery instruments. It considered three instrument classes: scalpel, needle holder and farabeuf retractor, sice they are main instruments used by physicians. 
+
 ## Performance
 
 O modelo treinado possui performance de **84.7%**.
