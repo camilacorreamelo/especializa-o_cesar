@@ -5,3 +5,5 @@ Model summary: 157 layers, 7018216 parameters, 0 gradients, 15.8 GFLOPs
              RETRACTOR         51         17      0.765      0.647      0.716      0.511
                SCALPEL         51         29      0.653      0.586      0.626      0.479
 
+![Gráficos de Perdas](https://user-images.githubusercontent.com/115883399/200435577-e44592fc-1cfb-4444-ba4a-94457154e4cf.png)
+![Matriz de Confusão](https://user-images.githubusercontent.com/115883399/200435805-8d7c33e7-0e80-49c2-b0ce-ac853d01737a.png)
