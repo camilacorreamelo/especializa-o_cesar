@@ -1,1 +1,7 @@
+Model summary: 157 layers, 7018216 parameters, 0 gradients, 15.8 GFLOPs
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100% 1/1 [00:00<00:00,  1.70it/s]
+                   all         51         87      0.737      0.504      0.603       0.44
+         NEEDLE HOLDER         51         41      0.792       0.28      0.466       0.33
+             RETRACTOR         51         17      0.765      0.647      0.716      0.511
+               SCALPEL         51         29      0.653      0.586      0.626      0.479
 
